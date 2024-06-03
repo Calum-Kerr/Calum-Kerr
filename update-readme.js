@@ -1,30 +1,19 @@
 const fs = require('fs');
-const { Octokit } = require('@octokit/rest');
 
-const octokit = new Octokit({
-  auth: process.env.GITHUB_TOKEN
-});
+// Sample content for update-stats.js
+const updateStats = () => {
+  console.log('Updating stats...');
 
-async function getCodespacesUsage() {
-  const { data } = await octokit.request('GET /user/codespaces', {
-    per_page: 100
-  });
+  // Add your logic to update stats here
+  const stats = {
+    lastUpdated: new Date().toISOString(),
+    // Add other stats here
+  };
 
-  let totalHours = 0;
-  data.forEach(codespace => {
-    totalHours += codespace.usage_hours;
-  });
+  // Write stats to a file (e.g., stats.json)
+  fs.writeFileSync('stats.json', JSON.stringify(stats, null, 2));
+  console.log('Stats updated successfully.');
+};
 
-  return totalHours;
-}
-
-async function updateReadme() {
-  const totalHours = await getCodespacesUsage();
-  
-  const readmeContent = fs.readFileSync('README.md', 'utf8');
-  const newContent = readmeContent.replace(/<!-- CODESPACES-START -->.*<!-- CODESPACES-END -->/, `<!-- CODESPACES-START -->\nTotal Codespaces Usage: ${totalHours} hours\n<!-- CODESPACES-END -->`);
-
-  fs.writeFileSync('README.md', newContent);
-}
-
-updateReadme();
+// Run the update function
+updateStats();

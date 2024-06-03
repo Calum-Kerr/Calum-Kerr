@@ -18,12 +18,12 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '14'
-        
+
       - name: Install Dependencies
         run: npm install
 
       - name: Run Update Script
-        run: node update-stats.js  # Replace with your actual script
+        run: node update-stats.js
 
       - name: Configure Git
         run: |
@@ -31,7 +31,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Add Changes
-        run: git add package-lock.json package.json
+        run: git add stats.json
 
       - name: Commit Changes
         run: |
