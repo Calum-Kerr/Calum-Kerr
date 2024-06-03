@@ -1,19 +1,32 @@
 const fs = require('fs');
+const path = require('path');
 
-// Sample content for update-stats.js
-const updateStats = () => {
-  console.log('Updating stats...');
+// Function to update the README file
+const updateReadme = () => {
+  const readmePath = path.join(__dirname, 'README.md');
+  const statsPath = path.join(__dirname, 'stats.json');
+  
+  // Read the stats from stats.json
+  let stats = {};
+  if (fs.existsSync(statsPath)) {
+    const statsData = fs.readFileSync(statsPath, 'utf-8');
+    stats = JSON.parse(statsData);
+  }
 
-  // Add your logic to update stats here
-  const stats = {
-    lastUpdated: new Date().toISOString(),
-    // Add other stats here
-  };
+  // Read the current README file
+  let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
-  // Write stats to a file (e.g., stats.json)
-  fs.writeFileSync('stats.json', JSON.stringify(stats, null, 2));
-  console.log('Stats updated successfully.');
+  // Update the Codespaces usage section
+  const usageText = `Total Codespaces Usage: ${stats.hoursCoded || 0} hours`;
+  const updatedContent = readmeContent.replace(
+    /<!-- CODESPACES-START -->[\s\S]*<!-- CODESPACES-END -->/,
+    `<!-- CODESPACES-START -->\n${usageText}\n<!-- CODESPACES-END -->`
+  );
+
+  // Write the updated content back to README.md
+  fs.writeFileSync(readmePath, updatedContent);
+  console.log('README.md updated successfully.');
 };
 
 // Run the update function
-updateStats();
+updateReadme();
