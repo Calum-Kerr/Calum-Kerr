@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Calum Kerr 👋
 
-<!--
-**Calum-Kerr/Calum-Kerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Edinburgh Napier Student with a passion for Artificial Intelligence and Web Dev. I'm currently working on a PDF manipulator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+Here are some of my notable projects:
+
+### PDF Manipulator
+- [PDF Manipulator](https://snackpdf.com/): A web application for manipulating PDF documents. This project includes features like:
+  - **PDF to Image Conversion**: Convert PDF documents to various image formats such as JPEG and PNG.
+  - **Panoramic Image Creation**: Create a single panoramic image from multiple PDF pages.
+  - **Compress PDF**: Reduce the size of PDF files while maintaining quality. Ongoing!
+  - **Export to Various Formats**: Convert PDFs to Word, Excel, and PowerPoint formats. Ongoing!
+
+## Get in Touch
+
+- [LinkedIn](www.linkedin.com/in/calum-x-kerr)
+- [Email](Calumxkerr@gmail.com)
+- [Uni Email](40587080@live.napier.ac.uk)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Support Me
+
+If you like my work, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
