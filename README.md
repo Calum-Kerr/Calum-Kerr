@@ -16,12 +16,6 @@ Here are some of my notable projects:
   - **Compress PDF**: Reduce the size of PDF files while maintaining quality. Ongoing!
   - **Export to Various Formats**: Convert PDFs to Word, Excel, and PowerPoint formats. Ongoing!
 
-## Get in Touch
-
-- [LinkedIn](www.linkedin.com/in/calum-x-kerr)
-- [Email](Calumxkerr@gmail.com)
-- [Uni Email](40587080@live.napier.ac.uk)
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -29,9 +23,3 @@ Here are some of my notable projects:
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## Support Me
-
-If you like my work, consider buying me a coffee:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
