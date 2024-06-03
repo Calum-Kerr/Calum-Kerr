@@ -23,3 +23,9 @@ Here are some of my notable projects:
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calum-Kerr&layout=compact&theme=radical)
+
+## Codespaces Usage
+
+<!-- CODESPACES-START -->
+Total Codespaces Usage: 0 hours
+<!-- CODESPACES-END -->
