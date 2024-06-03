@@ -10,7 +10,15 @@ const updateReadme = () => {
   if (fs.existsSync(statsPath)) {
     const statsData = fs.readFileSync(statsPath, 'utf-8');
     stats = JSON.parse(statsData);
+  } else {
+    stats.hoursCoded = 0;
   }
+
+  // Simulate usage increment
+  stats.hoursCoded += 1;
+
+  // Write back the updated stats
+  fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2));
 
   // Read the current README file
   let readmeContent = fs.readFileSync(readmePath, 'utf-8');
