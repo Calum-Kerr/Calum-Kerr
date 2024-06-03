@@ -27,5 +27,5 @@ Here are some of my notable projects:
 ## Codespaces Usage
 
 <!-- CODESPACES-START -->
-Total Codespaces Usage: 1 hours
+Total Codespaces Usage: 0.00 hours
 <!-- CODESPACES-END -->
