@@ -1,16 +1,15 @@
 {
-    "name": "update-readme",
-    "version": "1.0.0",
-    "description": "A script to update README with Codespaces usage",
-    "main": "update-readme.js",
-    "dependencies": {
-      "@octokit/rest": "^18.0.0"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "start": "node update-readme.js"
-    },
-    "author": "Calum Kerr",
-    "license": "ISC"
-  }
-  
+  "name": "update-readme",
+  "version": "1.0.0",
+  "description": "A script to update README with Codespaces usage",
+  "main": "update-readme.js",
+  "dependencies": {
+    "@octokit/rest": "^18.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "author": "Calum Kerr",
+  "license": "ISC"
+}

@@ -1,11 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-// Function to update the README file
 const updateReadme = () => {
-  const readmePath = path.join(__dirname, 'README.md');
   const statsPath = path.join(__dirname, 'stats.json');
-  
+  const readmePath = path.join(__dirname, 'README.md');
+
   // Read the stats from stats.json
   let stats = {};
   if (fs.existsSync(statsPath)) {
