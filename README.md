@@ -23,9 +23,3 @@ Here are some of my notable projects:
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calum-Kerr&layout=compact&theme=radical)
-
-## Support Me
-
-If you like my work, consider buying me a coffee:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Calum-Kerr)
