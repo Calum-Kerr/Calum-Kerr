@@ -10,7 +10,7 @@ I'm a Edinburgh Napier Student with a passion for Artificial Intelligence and We
 Here are some of my notable projects:
 
 ### PDF Manipulator
-- [PDF Manipulator](https://snackpdf.com/): A web application for manipulating PDF documents. This project includes features like:
+- [PDF Manipulator](https://www.snackpdf.com/): A web application for manipulating PDF documents. This project includes features like:
   - **PDF to Image Conversion**: Convert PDF documents to various image formats such as JPEG and PNG.
   - **Panoramic Image Creation**: Create a single panoramic image from multiple PDF pages.
   - **Compress PDF**: Reduce the size of PDF files while maintaining quality. Ongoing!
