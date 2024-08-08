@@ -20,4 +20,4 @@ I'm a student at Edinburgh Napier University, currently working on a PDF manipul
 
 ## Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/calum-x-kerr/) or keep an eye on my GitHub for updates on SnackPDF and other projects.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/calum-x-kerr/) or keep an eye on my GitHub for updates on SnackPDF and other projects.
