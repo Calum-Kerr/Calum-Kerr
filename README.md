@@ -14,7 +14,7 @@ I'm a student at Edinburgh Napier University, working on projects that blend pra
   - **Compress PDFs**: Shrink PDF files without losing too much quality. Still tweaking this feature.
   - **Export to Other Formats**: Convert PDFs to Word, Excel, and PowerPoint. Working on improving this functionality.
 
-### 2D Soulsborne-Inspired RPG Game
+### 2D Soulsborne Inspired RPG Game
 
 I'm currently developing a **2D side scrolling RPG game** loosely based on Soulsborne games. Here's what to expect:
 
