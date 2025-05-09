@@ -4,48 +4,35 @@
 
 I'm a student at Edinburgh Napier University, working on projects that blend practical tools with engaging experiences.
 
-## Projects
+## RevisePDF
 
-### RevisePDF
+[RevisePDF](https://www.revisepdf.com/) is a comprehensive PDF manipulation web application that lets users optimise, convert, edit, organise, and secure PDF documents through an intuitive interface.
 
-- [RevisePDF](https://revisepdf-5cf3c1ad2f8a.herokuapp.com/): A comprehensive PDF manipulation web application built with Python/Flask and PyMuPDF. RevisePDF offers a complete suite of tools for all your PDF needs:
+## Future Development Focus
 
-  #### Convert to PDF
-  - **Image to PDF**: Convert JPG, PNG, and other image formats to PDF
-  - **Office to PDF**: Transform Word, Excel, and PowerPoint files to PDF
-  - **HTML to PDF**: Convert HTML files or web URLs to PDF
-  - **ZIP to PDF**: Extract and convert multiple files from ZIP archives to PDF
+I'm currently focused on three key areas of development:
 
-  #### Convert from PDF
-  - **PDF to Image**: Export PDFs to JPG, PNG, and other image formats
-  - **PDF to Text**: Extract text content from PDF documents
-  - **PDF to PDF/A**: Convert PDFs to archival-quality PDF/A format
-  - **PDF to Panoramic**: Create panoramic images from PDF pages
+### 1. Supabase Integration
+- Enhancing user authentication with Google OAuth
+- Implementing user profiles and document storage
+- Setting up usage tracking for subscription tiers
 
-  #### Edit PDFs
-  - **Content Editor**: Add text, images, and erase content
-  - **Text Editor**: Edit existing text in PDFs
-  - **Watermark**: Add text or image watermarks
-  - **Page Numbers**: Add customisable page numbers
-  - **Signature**: Draw, upload, or type signatures
+### 2. Marketing & User Growth
+- Improving SEO to increase organic traffic
+- Developing targeted marketing campaigns
+- Building community through user feedback integration
 
-  #### Organise PDFs
-  - **Merge**: Combine multiple PDFs into one document
-  - **Split**: Divide PDFs into smaller documents
-  - **Extract**: Pull out specific pages
-  - **Rotate**: Change page orientation
+### 3. Tool Completion
+- Finalising the WYSIWYG PDF editor (currently marked as "coming soon")
+- Completing the text editor with advanced formatting options
+- Implementing additional security features
 
-  #### Optimise PDFs
-  - **Compress**: Reduce file size while maintaining quality
-  - **Repair**: Fix corrupted PDF files
-  - **OCR**: Make scanned documents searchable
+## Technology
 
-  #### Security Features
-  - **Protect**: Add password protection to PDFs
-  - **Unlock**: Remove password protection
-  - **Flatten**: Make form fields and annotations permanent
-  - **Redact**: Securely remove sensitive information
+Built with Python/Flask, PyMuPDF, and Supabase, with plans to migrate the frontend to Vue.js.
 
 ## Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/calum-x-kerr/) or keep an eye on my GitHub for updates on **RevisePDF**, the 2D RPG game, and other projects.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/calum-x-kerr/) or visit [RevisePDF](https://www.revisepdf.com/) to try the beta.
+
+I'm actively seeking feedback and new users as I prepare for a full release with premium features. If you're interested in contributing or have feature suggestions, please reach out!
