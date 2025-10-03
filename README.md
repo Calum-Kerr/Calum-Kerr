@@ -1,38 +1,32 @@
-# Hi there, I'm Calum Kerr 👋
+# Hi there, I'm Calum Kerr
 
 ## About Me
 
-I'm a student at Edinburgh Napier University, working on projects that blend practical tools with engaging experiences.
+I'm a Computer Science student at Edinburgh Napier University, building practical web applications and exploring data analytics.
 
-## RevisePDF
+## SnackPDF
 
-[RevisePDF](https://www.revisepdf.com/) is a comprehensive PDF manipulation web application that lets users optimise, convert, edit, organise, and secure PDF documents through an intuitive interface.
+[SnackPDF](https://snackpdf-46e2f908f9d6.herokuapp.com/) is a PDF processing web application with user authentication and subscription payments. The platform focuses on security, reliable deployment, and user experience.
 
-## Future Development Focus
+### Current Features
+- User authentication and account management
+- Stripe subscription payment system
+- Secure file upload and processing
+- Deployed on Heroku for reliable hosting
 
-I'm currently focused on three key areas of development:
+### Technology Stack
+- Python with Ripple framework
+- Supabase for authentication and database
+- Stripe for payment processing
+- Heroku for deployment
+- Ghostscript for PDF manipulation
 
-### 1. Supabase Integration
-- Enhancing user authentication with Google OAuth
-- Implementing user profiles and document storage
-- Setting up usage tracking for subscription tiers
+## Honours Project
 
-### 2. Marketing & User Growth
-- Improving SEO to increase organic traffic
-- Developing targeted marketing campaigns
-- Building community through user feedback integration
-
-### 3. Tool Completion
-- Finalising the WYSIWYG PDF editor (currently marked as "coming soon")
-- Completing the text editor with advanced formatting options
-- Implementing additional security features
-
-## Technology
-
-Built with Python/Flask, PyMuPDF, and Supabase, with plans to migrate the frontend to Vue.js.
+Currently working on my honours project in data analytics, focusing on automated data error cleaning algorithms for different data structures.
 
 ## Get in Touch
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/calum-x-kerr/) or visit [RevisePDF](https://www.revisepdf.com/) to try the beta.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kerr-x-calum/) or check out my projects on [GitHub](https://github.com/Calum-Kerr).
 
-I'm actively seeking feedback and new users as I prepare for a full release with premium features. If you're interested in contributing or have feature suggestions, please reach out!
+I'm interested in graduate programmes and entry-level roles that combine software development with data analytics.
