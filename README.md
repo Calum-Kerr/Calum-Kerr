@@ -7,7 +7,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -19,7 +18,6 @@
 I am a Computer Science student at Edinburgh Napier University, building practical web applications and exploring data analytics. I enjoy creating tools that solve real problems and learning new technologies along the way.
 </p>
 
----
 
 <div align="center">
 
@@ -37,7 +35,6 @@ Currently working on my honours dissertation in data analytics, focusing on auto
 
 </div>
 
----
 
 <div align="center">
 
