@@ -31,7 +31,7 @@ Currently working on my honours dissertation in data analytics, focusing on auto
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-calumkerr.com/app-brightgreen?style=for-the-badge)](https://www.calumkerr.com/app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-calumkerr.com/app-brightgreen?style=for-the-badge)](https://tidy.calumkerr.com/app)
 
 </div>
 
