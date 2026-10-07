@@ -9,7 +9,7 @@ only cover it up? Is the site even working today?
 
 ## Dialegein
 
-[Dialegein](https://dialegein.com) holds 154 tools, each with a source and a date behind every field. Where
+[Dialegein](https://dialegein.com) holds over 150 tools, each with a source and a date behind every field. Where
 nothing has established a fact, the record says so rather than filling the gap with something plausible, and
 the site publishes its own mistakes at [dialegein.com/corrections](https://dialegein.com/corrections) with the
 commit that fixed each one. It is a sole trader business rather than a side project, and the data, the build
